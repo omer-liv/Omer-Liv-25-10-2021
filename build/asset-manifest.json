@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Omer-Liv-25-10-2021/static/css/main.a38413cd.chunk.css",
-    "main.js": "/Omer-Liv-25-10-2021/static/js/main.b58833bc.chunk.js",
-    "main.js.map": "/Omer-Liv-25-10-2021/static/js/main.b58833bc.chunk.js.map",
+    "main.js": "/Omer-Liv-25-10-2021/static/js/main.46db89eb.chunk.js",
+    "main.js.map": "/Omer-Liv-25-10-2021/static/js/main.46db89eb.chunk.js.map",
     "runtime-main.js": "/Omer-Liv-25-10-2021/static/js/runtime-main.a1c6977b.js",
     "runtime-main.js.map": "/Omer-Liv-25-10-2021/static/js/runtime-main.a1c6977b.js.map",
     "static/js/2.74e7527e.chunk.js": "/Omer-Liv-25-10-2021/static/js/2.74e7527e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a1c6977b.js",
     "static/js/2.74e7527e.chunk.js",
     "static/css/main.a38413cd.chunk.css",
-    "static/js/main.b58833bc.chunk.js"
+    "static/js/main.46db89eb.chunk.js"
   ]
 }
