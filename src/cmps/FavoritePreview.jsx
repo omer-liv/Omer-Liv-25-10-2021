@@ -28,7 +28,7 @@ export function FavoritePreview({ city, setCity }) {
 
         if (!bgImage) return <h1>Loading...</h1>
     return (
-        <div className="favorite-card" onClick={onSetCity} style={{ backgroundImage: `url(/imgs/${bgImage}.png)` }}>
+        <div className="favorite-card" onClick={onSetCity} style={{ backgroundImage: `url(./imgs/${bgImage}.png)` }}>
             <h2>{location.LocalizedName}</h2>
             <h2>{IconPhrase}</h2>
             <h2>{cityDegrees()}°</h2>

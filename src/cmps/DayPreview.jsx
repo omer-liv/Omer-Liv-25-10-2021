@@ -27,7 +27,7 @@ export function DayPreview({ day }) {
     }, [])
     if (!bgImage) return <h1>Loading...</h1>
     return (
-        <div className="day-card" style={{ backgroundImage: `url(/imgs/${bgImage}.png)` }}>
+        <div className="day-card" style={{ backgroundImage: `url(./imgs/${bgImage}.png)` }}>
             <h2>{date}</h2>
             <h2>{weekdays[new Date(date).getDay()]}</h2>
             <h2>{cityDegrees()}°</h2>
