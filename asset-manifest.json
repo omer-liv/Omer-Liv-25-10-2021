@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9e855e7.chunk.css",
-    "main.js": "/static/js/main.b58833bc.chunk.js",
-    "main.js.map": "/static/js/main.b58833bc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eac8e5a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eac8e5a4.js.map",
-    "static/js/2.74e7527e.chunk.js": "/static/js/2.74e7527e.chunk.js",
-    "static/js/2.74e7527e.chunk.js.map": "/static/js/2.74e7527e.chunk.js.map",
-    "static/js/3.631c823b.chunk.js": "/static/js/3.631c823b.chunk.js",
-    "static/js/3.631c823b.chunk.js.map": "/static/js/3.631c823b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a9e855e7.chunk.css.map": "/static/css/main.a9e855e7.chunk.css.map",
-    "static/js/2.74e7527e.chunk.js.LICENSE.txt": "/static/js/2.74e7527e.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/static/media/home.e27927e4.jpg"
+    "main.css": "/Omer-Liv-25-10-2021/static/css/main.a38413cd.chunk.css",
+    "main.js": "/Omer-Liv-25-10-2021/static/js/main.b58833bc.chunk.js",
+    "main.js.map": "/Omer-Liv-25-10-2021/static/js/main.b58833bc.chunk.js.map",
+    "runtime-main.js": "/Omer-Liv-25-10-2021/static/js/runtime-main.a1c6977b.js",
+    "runtime-main.js.map": "/Omer-Liv-25-10-2021/static/js/runtime-main.a1c6977b.js.map",
+    "static/js/2.74e7527e.chunk.js": "/Omer-Liv-25-10-2021/static/js/2.74e7527e.chunk.js",
+    "static/js/2.74e7527e.chunk.js.map": "/Omer-Liv-25-10-2021/static/js/2.74e7527e.chunk.js.map",
+    "static/js/3.631c823b.chunk.js": "/Omer-Liv-25-10-2021/static/js/3.631c823b.chunk.js",
+    "static/js/3.631c823b.chunk.js.map": "/Omer-Liv-25-10-2021/static/js/3.631c823b.chunk.js.map",
+    "index.html": "/Omer-Liv-25-10-2021/index.html",
+    "static/css/main.a38413cd.chunk.css.map": "/Omer-Liv-25-10-2021/static/css/main.a38413cd.chunk.css.map",
+    "static/js/2.74e7527e.chunk.js.LICENSE.txt": "/Omer-Liv-25-10-2021/static/js/2.74e7527e.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/Omer-Liv-25-10-2021/static/media/home.e27927e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eac8e5a4.js",
+    "static/js/runtime-main.a1c6977b.js",
     "static/js/2.74e7527e.chunk.js",
-    "static/css/main.a9e855e7.chunk.css",
+    "static/css/main.a38413cd.chunk.css",
     "static/js/main.b58833bc.chunk.js"
   ]
 }
