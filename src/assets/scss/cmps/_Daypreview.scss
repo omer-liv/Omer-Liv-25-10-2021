@@ -1,0 +1,30 @@
+.forecast-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 0 20px;
+    margin-bottom: 1rem;
+}
+
+.day-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 180px;
+    height: 240px;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 0px  rgb(124, 124, 124);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+
+}
+
+@media screen and (max-width: 450px) {
+    .forecast-list {
+        justify-content: center;
+    }
+}

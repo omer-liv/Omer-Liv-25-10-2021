@@ -1,0 +1,43 @@
+.footer-light {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    padding: 0 2rem;
+    opacity: 0.9;
+    & img {
+        width: 30px;
+        height: 30px;
+    }
+
+    & h3 {
+        color: rgb(231, 216, 216);
+    }
+}
+
+.footer-dark {
+    height: 70px;
+    width: 100%;
+    background-color: #1b1d1d;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    padding: 0 2rem;
+    opacity: 1;
+    & img {
+        width: 30px;
+        height: 30px;
+    }
+
+    & h3 {
+        color: whitesmoke;
+    }
+}

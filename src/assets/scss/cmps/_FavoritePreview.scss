@@ -1,0 +1,35 @@
+.favorite-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 0px  rgb(124, 124, 124);
+    width: 180px;
+    height: 240px;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: 0.4s;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    &:hover{
+        box-shadow: inset 0px 0px 5px 1px #000000;
+    }
+}
+
+.favorites-list {
+    margin: 2rem 2rem;
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+    height: 70vh;
+
+}
+
+@media screen and (max-width: 500px) {
+    .favorites-list {
+        justify-content: center;
+    }
+}

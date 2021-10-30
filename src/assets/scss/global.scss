@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family: zen-kaku;
+  color: #2c2d2e;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #EBEBEB;
+  background-image: url(../imgs/home.jpg);
+  background-size: cover;
+}
+
+.dark {
+  background-image: url('../imgs/dark.jpg');
+  background-size: cover;
+}
+
+.light {
+  background-image: url('../imgs/home.jpg');
+  background-size: cover;
+}
+
+.content-wrap {
+  padding-bottom: 70px;
+}
+
+@font-face {
+  font-family: zen-kaku;
+  src: url(../fonts/zen-kaku/ZenKakuGothicAntique-Regular.ttf)
+}
+
+// components
+@import "cmps/AppHeader";
+@import "cmps/Daypreview";
+@import "cmps/FavoritePreview";
+@import "cmps/AppFooter";
+
+// pages
+ @import "pages/Homepage";
+ @import "pages/Favorites"
